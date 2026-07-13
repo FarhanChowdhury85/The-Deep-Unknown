@@ -1,9 +1,9 @@
 # The Deep Unknown: AI and the Future of Ocean Exploration
 <img width="1665" height="935" alt="image" src="https://github.com/user-attachments/assets/b52ddb0a-c0db-4885-a261-f6c527542e31" />
 
-**CP468 – Artificial Intelligence | Wilfrid Laurier University | Bonus Presentation**
+**CP468 – Artificial Intelligence | Wilfrid Laurier University**
 
-Authors: Farhan · Safdar · Manahil
+Group Members: Farhan · Safdar · Manahil
 
 ---
 
